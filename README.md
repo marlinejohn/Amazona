@@ -11,5 +11,10 @@
 #   npm install express
 #   create server.js
 #   npm install nodemon --save-dev
+# 6. Fetch Products from Backend
+#   npm install axios
+#   use effect hook
+#   use reducer hook
+
 
 
