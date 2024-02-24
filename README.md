@@ -18,6 +18,10 @@
 # 7. Manage state by Reducer Hook
 #   update fetch data
 #   get state from useReducer
+# 8. Add bootsrap UI Framework
+#   npm install react-bootstrap
+#   update App.js
+# 9. 
 
 
 
