@@ -15,6 +15,9 @@
 #   npm install axios
 #   use effect hook
 #   use reducer hook
+# 7. Manage state by Reducer Hook
+#   update fetch data
+#   get state from useReducer
 
 
 
