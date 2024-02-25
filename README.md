@@ -24,6 +24,9 @@
 # 9. Create Product and rating component
 # 10. Add Product details screen
 #   fetch product from backend
+# 11. Create Loading and Message Component
+#   create loading component, use spinner component
+#   create message component, utils.js to define getError function
 
 
 
