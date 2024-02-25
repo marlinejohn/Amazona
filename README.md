@@ -22,6 +22,9 @@
 #   npm install react-bootstrap
 #   update App.js
 # 9. Create Product and rating component
+# 10. Add Product details screen
+#   fetch product from backend
+
 
 
 
