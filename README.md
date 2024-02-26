@@ -36,6 +36,8 @@
 # 15. Complete Cart Screen
 #    use of click handler for inc/dec
 #   click handler for removing items and checkout
+# 16. Create Signin Screen
+#   sign in form, emaial/password field, sign in button
 
 
 
