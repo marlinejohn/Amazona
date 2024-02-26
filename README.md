@@ -35,11 +35,13 @@
 # 14. Create Cart Screen
 # 15. Complete Cart Screen
 #    use of click handler for inc/dec
-#   click handler for removing items and checkout
+#    click handler for removing items and checkout
 # 16. Create Signin Screen
-#   sign in form, emaial/password field, sign in button
+#    sign in form, emaial/password field, sign in button
 # 17. Connect to MongoDB Database
-#   install mongoose and dotenv
+#    install mongoose and dotenv
+# 18. Create sample data
+#     product model, user model, route in server.js
 
 
 
