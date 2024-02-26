@@ -42,6 +42,8 @@
 #    install mongoose and dotenv
 # 18. Create sample data
 #     product model, user model, route in server.js
+# 19. Create sample users
+#     user model, sample users, user routes
 
 
 
