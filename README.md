@@ -33,6 +33,9 @@
 #   Implement add to cart button handler
 # 13. Complete add to cart
 # 14. Create Cart Screen
+# 15. Complete Cart Screen
+#    use of click handler for inc/dec
+#   click handler for removing items and checkout
 
 
 
