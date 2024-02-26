@@ -38,6 +38,8 @@
 #   click handler for removing items and checkout
 # 16. Create Signin Screen
 #   sign in form, emaial/password field, sign in button
+# 17. Connect to MongoDB Database
+#   install mongoose and dotenv
 
 
 
