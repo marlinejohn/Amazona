@@ -24,7 +24,7 @@ const data ={
             email: 'burny@email.com',
             password: bcrypt.hashSync('876549'),
             isAdmin: false
-        }
+        },
     ],
     products: [{
         // _id:1,
